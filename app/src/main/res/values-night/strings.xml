@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_title">StitchOptix</string>
+    <string name="select_file_label">File Selection</string>
+    <string name="select_embroidery_file">Select Embroidery File</string>
+    <string name="no_file_selected">No file selected</string>
+    <string name="reduction_settings">Reduction Settings</string>
+    <string name="minimum_stitch_length">Minimum Stitch Length</string>
+    <string name="process_file">Process File</string>
+    <string name="ready_status">Ready to process file</string>
+    <string name="design_preview">Design Preview</string>
+    <string name="embroidery_design_preview">Embroidery design preview</string>
+    <string name="optimization_results">Optimization Results</string>
+    <string name="save_optimized_file">Save Optimized File</string>
+    <string name="app_name">StitchOptix</string>
+    <string name="menu_support">Support</string>
+    <string name="menu_faq">FAQ</string>
+    <string name="support_title">Support Info</string>
+    <string name="developer_info_label">Developer Information</string>
+    <string name="app_version_label">Application Version</string>
+    <string name="faq_title">Frequently Asked Questions</string>
+    <string name="developer_name">B Sai Kiran</string>
+    <string name="developer_mail">saikiranreddy8151@gmail.com</string>
+    <string name="version_1_0_0">Version 1.0.0</string>
+    <string name="contributors">• aaftabzohra@gmail.com \n• anjalisrk2003@gmail.com\n• bhanuprakashreddy7126@gmail.com \n• bheeralingautkur@gmail.com\n• fayazpatawari@gmail.com \n• gollaanjanasree03@gmail.com \n• hkamble674@gmail.com\n• jaganreplies@gmail.com \n• lioneltanuja7@gmail.com \n• nanduvirat294@gmail.com\n• rajeshreeketanapalli@gmail.com \n• rehamathunnisaa@gmail.com \n• saikiranreddy8151@gmail.com\n• shobhaj.1023@gmail.com\n• sreekarsamrudh@gmail.com \n• tejachowdary161@gmail.com \n• venkateshchowdary1912@gmail.com \n• vsaijayesh94@gmail.com</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <!-- Dark mode brand -->
+    <color name="primary_color">#BB86FC</color>
+    <color name="primary_variant">#3700B3</color>
+    <color name="secondary_color">#03DAC6</color>
+
+    <!-- Text -->
+    <color name="secondary_text">#B0B0B0</color> <!-- lighter gray text in dark -->
+
+    <!-- Surfaces -->
+    <color name="surface_color">#121212</color> <!-- typical dark background -->
+    <color name="light_gray">#2C2C2C</color>
+    <color name="gray_300">#B0B0B0</color>
+    <color name="gray_600">#999999</color>
+    <color name="dark_gray">#121212</color>
+    <color name="darker_gray">#1E1E1E</color>
+
+    <!-- Status / icons -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

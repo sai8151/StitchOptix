@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/generated_image__1_"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/generated_image__1_"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.StitchOptix">
+
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            > <!-- Use a NoActionBar theme if you want to use the default app bar and add your own menu -->
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".SupportActivity"
+            android:parentActivityName=".MainActivity" /> <!-- Declares MainActivity as parent for back navigation -->
+
+        <activity android:name=".FAQActivity"
+            android:parentActivityName=".MainActivity" /> <!-- Declares MainActivity as parent for back navigation -->
+
+
+    </application>
+
+</manifest>
