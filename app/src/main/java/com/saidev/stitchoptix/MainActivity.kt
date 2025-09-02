@@ -160,7 +160,7 @@ class MainActivity : AppCompatActivity() {
                 }
             }
         } catch (e: Exception) {
-            Toast.makeText(this, "Error selecting file: ${e.message}", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "Error selecting file : ${e.message}", Toast.LENGTH_LONG).show()
         }
     }
     private suspend fun generateOriginalPreview(fileUri: Uri) {
