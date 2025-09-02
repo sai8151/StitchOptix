@@ -10,7 +10,7 @@ android {
     ndkVersion = "28.0.13004108"
     defaultConfig {
         applicationId = "com.saidev.stitchoptix"
-        minSdk = 31
+        minSdk = 32
         targetSdk = 36
         versionCode = 6
         versionName = "6.0"
