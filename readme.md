@@ -2,6 +2,13 @@
 
 A embroidery file optimization tool that reduces file sizes and improves stitch quality by removing unnecessarily small stitches. Available as both a Python library and an Android mobile application.
 
+## 📱 Mobile App
+
+The StitchOptix Android app is currently available for **closed testing** on Google Play:
+
+[**Download from Google Play Store**](https://play.google.com/store/apps/details?id=com.saidev.stitchoptix)
+
+#
 ## 🧵 Overview
 
 StitchOptix analyzes embroidery patterns and intelligently removes stitches that are below a configurable minimum length threshold. This optimization process results in:
@@ -28,11 +35,6 @@ StitchOptix analyzes embroidery patterns and intelligently removes stitches that
 * **Flexible Export**: Save optimized files to any location on device
 * **File Metadata Display**: Comprehensive pattern information
 
-## 📱 Mobile App
-
-The StitchOptix Android app is currently available for **closed testing** on Google Play:
-
-[**Download from Google Play Store**](https://play.google.com/store/apps/details?id=com.saidev.stitchoptix)
 
 ## 
 
@@ -171,5 +173,6 @@ We welcome contributions! Please see our contributing guidelines:
 ---
 
 **StitchOptix** - Making embroidery files smaller, faster, and better, one stitch at a time. 🧵✨
+
 
 
